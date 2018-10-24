@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+    <objectAnimator
+        android:interpolator="@android:anim/overshoot_interpolator"
+        android:duration="700"
+        android:propertyName="pathData"
+        android:valueFrom="M5.2,4 l2,0 l0,2 l -2,0 l0,-2z"
+        android:valueTo="M5.2,4 l0,1 l0,1 l1.5,-1 l-1.5,-1z"
+        android:valueType="pathType" />
+
+</set>

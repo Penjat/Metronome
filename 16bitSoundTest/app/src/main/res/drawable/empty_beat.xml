@@ -1,0 +1,13 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/off_shadow"
+        android:top="6px"
+        android:left="6px"/>
+    <item
+        android:drawable="@drawable/empty"
+        android:bottom="6px"
+        android:right="6px"
+        />
+
+</layer-list>
